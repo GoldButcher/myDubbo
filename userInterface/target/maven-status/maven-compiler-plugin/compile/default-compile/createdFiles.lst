@@ -1,0 +1,10 @@
+com\cn\nit\common\dao\IBaseDao.class
+com\cn\nit\common\service\IBaseService.class
+com\cn\nit\entity\Go.class
+com\cn\nit\entity\Good.class
+com\cn\nit\service\UserDubboService.class
+com\cn\nit\common\service\impl\BaseServiceImpl.class
+com\cn\nit\entity\Logininfo.class
+com\cn\nit\entity\User.class
+com\cn\nit\entity\Order.class
+com\cn\nit\common\dao\impl\BaseDaoImpl.class

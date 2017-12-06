@@ -1,0 +1,8 @@
+service\impl\UserServiceImpl.class
+dao\UserDaoImpl.class
+service\IUserService.class
+dao\IUserDao.class
+common\service\impl\BaseServiceImpl.class
+common\dao\IBaseDao.class
+common\dao\impl\BaseDaoImpl.class
+common\service\IBaseService.class
